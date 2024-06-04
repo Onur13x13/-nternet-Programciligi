@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HaberPortaliFinal.API.props" />
+</Project>
